@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-size: 35px;
+    
+}
+.container{
+    width: 400px ;
+    height: 400px;
+    border: 5px solid rgb(88, 88, 88);
+}
+.row1, .row2{
+    width: 450px;
+    height: 50px;
+
+}
+ .black{
+    width: 50px;
+    height: 50px;
+    background-color:rgb(88, 88, 88);
+    float: left;
+    
+    
+     
+    
+ }
+ .white{
+    width: 50px;
+    height: 50px;
+    background-color:rgb(231, 227, 227);
+    float: left;
+    
+ }
+ 

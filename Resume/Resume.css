@@ -1,0 +1,35 @@
+dt{
+    font-size: large;
+    text-transform: uppercase;
+    background-color :grey;
+    color: white;
+    padding: 5px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0%;
+
+}
+hr{
+    border: 2px solid black;
+}
+.header>h1{
+    color: red;
+    font-size: 50px;
+
+}
+.header>p{
+    color:blue;
+    position: absolute;
+    top: 8%;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+}
+ .sign{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-weight: bold;
+    
+ }
